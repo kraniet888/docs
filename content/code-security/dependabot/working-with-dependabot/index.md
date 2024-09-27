@@ -25,5 +25,4 @@ children:
   - /viewing-dependabot-job-logs
   - /troubleshooting-the-detection-of-vulnerable-dependencies
   - /troubleshooting-dependabot-errors
-  - /troubleshooting-dependabot-on-github-actions
 ---

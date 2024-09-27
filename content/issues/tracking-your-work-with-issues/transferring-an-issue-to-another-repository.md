@@ -6,7 +6,6 @@ redirect_from:
   - /articles/transferring-an-issue-to-another-repository
   - /github/managing-your-work-on-github/transferring-an-issue-to-another-repository
   - /issues/tracking-your-work-with-issues/managing-issues/transferring-an-issue-to-another-repository
-  - /issues/tracking-your-work-with-issues/transferring-an-issue-to-another-repository
 versions:
   fpt: '*'
   ghes: '*'

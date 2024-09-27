@@ -10,8 +10,6 @@ type: quick_start
 topics:
   - Issues
   - Project management
-redirect_from:
-  - /issues/tracking-your-work-with-issues/quickstart
 ---
 
 ## Introduction

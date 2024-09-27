@@ -9,8 +9,6 @@ allowTitleToDifferFromFilename: true
 topics:
   - Issues
 shortTitle: Create branch for issue
-redirect_from:
-  - /issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue
 ---
 
 {% note %}
